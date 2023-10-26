@@ -1,0 +1,5 @@
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E171] Type Error: /Users/ben/workspace/export_default_param_repro/module2/Module2.scala:1:22 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m1 |[0m[33mval[0m [36mx[0m = Module1.method()[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m  |[0m        ^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0mmissing argument for parameter param of [33mmethod[0m [35mmethod[0m in [33mobject[0m [35mModule1[0m: (param: String): Unit[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

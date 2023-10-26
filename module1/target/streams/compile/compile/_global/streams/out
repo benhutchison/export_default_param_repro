@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E019] Syntax Error: /Users/ben/workspace/export_default_param_repro/module1/Module1.scala:5:44 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m5 |[0m  [33mdef[0m [36mmethod[0m([36mparam[0m: [35mString[0m = [31m"defaultValue"[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m  |[0m                                            ^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0m                                            Missing return type[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
